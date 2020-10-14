@@ -10,6 +10,8 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hallo World!");
+            Console.WriteLine("I made this change. Hello Git!");
         }
     }
 }
